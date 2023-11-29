@@ -31,6 +31,7 @@ The button's onclick method, performs the action contained when the button is pr
 
 ---
 ```js
+    
 import React from 'react';
 
 interface ButtonProps {
@@ -77,3 +78,5 @@ export default class ButtonComponent extends React.Component<ButtonProps, Button
         // Do Something
     }
 }
+
+```
